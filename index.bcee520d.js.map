@@ -1,0 +1,1 @@
+{"mappings":"qeAEA,EAFAA,EAAA,SAEAC,kBAAiB","sources":["src/index.js"],"sourcesContent":["import { createPagination } from './js/pagination';\n\ncreatePagination(20000);\n"],"names":["parcelRequire","createPagination"],"version":3,"file":"index.bcee520d.js.map"}

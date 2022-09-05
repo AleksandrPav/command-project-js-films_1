@@ -1,0 +1,2 @@
+const e={openModalLink:document.querySelector("[data-open-modal]"),backdrop:document.querySelector(".backdrop")};e.openModalLink.addEventListener("click",(function(d){d.preventDefault(),e.backdrop.classList.remove("is-hidden")})),e.backdrop.addEventListener("click",(function(d){d.target.classList.contains("backdrop")&&e.backdrop.classList.add("is-hidden")}));
+//# sourceMappingURL=library.e7e8d225.js.map

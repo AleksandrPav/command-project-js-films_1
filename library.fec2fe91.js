@@ -1,0 +1,2 @@
+!function(){const e={openModalLink:document.querySelector("[data-open-modal]"),backdrop:document.querySelector(".backdrop")};e.openModalLink.addEventListener("click",(function(n){n.preventDefault(),e.backdrop.classList.remove("is-hidden")})),e.backdrop.addEventListener("click",(function(n){n.target.classList.contains("backdrop")&&e.backdrop.classList.add("is-hidden")}))}();
+//# sourceMappingURL=library.fec2fe91.js.map
