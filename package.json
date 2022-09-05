@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Lena-Stukalo.github.io/command-project-js",
+  "homepage": "https://github.com/AleksandrPav/command-project-js-films_1",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /command-project-js/"
