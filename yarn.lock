@@ -75,9 +75,9 @@
   dependencies:
     "@lezer/common" "^0.15.0"
 
-"@lmdb/lmdb-linux-x64@2.5.2":
-  "integrity" "sha512-xUdUfwDJLGjOUPH3BuPBt0NlIrR7f/QHKgu3GZIXswMMIihAekj2i97oI0iWG5Bok/b+OBjHPfa8IU9velnP/Q=="
-  "resolved" "https://registry.npmjs.org/@lmdb/lmdb-linux-x64/-/lmdb-linux-x64-2.5.2.tgz"
+"@lmdb/lmdb-win32-x64@2.5.2":
+  "integrity" "sha512-zrBczSbXKxEyK2ijtbRdICDygRqWSRPpZMN5dD1T8VMEW5RIhIbwFWw2phDRXuBQdVDpSjalCIUMWMV2h3JaZA=="
+  "resolved" "https://registry.npmjs.org/@lmdb/lmdb-win32-x64/-/lmdb-win32-x64-2.5.2.tgz"
   "version" "2.5.2"
 
 "@mischnic/json-sourcemap@^0.1.0":
@@ -89,9 +89,9 @@
     "@lezer/lr" "^0.15.4"
     "json5" "^2.2.1"
 
-"@msgpackr-extract/msgpackr-extract-linux-x64@2.0.2":
-  "integrity" "sha512-zrBHaePwcv4cQXxzYgNj0+A8I1uVN97E7/3LmkRocYZ+rMwUsnPpp4RuTAHSRoKlTQV3nSdCQW4Qdt4MXw/iHw=="
-  "resolved" "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-linux-x64/-/msgpackr-extract-linux-x64-2.0.2.tgz"
+"@msgpackr-extract/msgpackr-extract-win32-x64@2.0.2":
+  "integrity" "sha512-fpnI00dt+yO1cKx9qBXelKhPBdEgvc8ZPav1+0r09j0woYQU2N79w/jcGawSY5UGlgQ3vjaJsFHnGbGvvqdLzg=="
+  "resolved" "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-win32-x64/-/msgpackr-extract-win32-x64-2.0.2.tgz"
   "version" "2.0.2"
 
 "@nodelib/fs.scandir@2.1.5":
@@ -216,14 +216,9 @@
     "nullthrows" "^1.1.1"
     "semver" "^5.7.1"
 
-"@parcel/css-linux-x64-gnu@1.10.1":
-  "integrity" "sha512-gBaHgMXom1lCGu/ummD1wqknxF9ZKFBUlxQ/0DtCdOtZlRBEKeWtoskK9tgH4YMnwTpMIagCwWB4UbP/9Yzz6A=="
-  "resolved" "https://registry.npmjs.org/@parcel/css-linux-x64-gnu/-/css-linux-x64-gnu-1.10.1.tgz"
-  "version" "1.10.1"
-
-"@parcel/css-linux-x64-musl@1.10.1":
-  "integrity" "sha512-arjLARo/3l0uwPf5qYxCkrS0FTE8n6JH/S1/7DitvhG22fsZdJTGPwe4MYLTIn4s3QXLOVVRrkPDZlUPM1yjFA=="
-  "resolved" "https://registry.npmjs.org/@parcel/css-linux-x64-musl/-/css-linux-x64-musl-1.10.1.tgz"
+"@parcel/css-win32-x64-msvc@1.10.1":
+  "integrity" "sha512-f/jkhL2uOZCHJg3/IGcuieZ4TTwkxExLd7SWVuiqJZI2nwOy/gLHTZJz3yzu/D1aLOe0M9/glgzUKRtK0DrUNA=="
+  "resolved" "https://registry.npmjs.org/@parcel/css-win32-x64-msvc/-/css-win32-x64-msvc-1.10.1.tgz"
   "version" "1.10.1"
 
 "@parcel/css@^1.10.1":
